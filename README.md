@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything fun, or intresting (math?), or innovating.
 - 📫 How to reach me mchen.tiger@gmail.com
 
-
+Helped make pretty much all the code in MediaView
 
 <!---
 michael-tiger-2010/michael-tiger-2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
